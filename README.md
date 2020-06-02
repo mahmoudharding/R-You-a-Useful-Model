@@ -1,2 +1,2 @@
 # R-You-a-Useful-Model
-Introduction to Data Science Using R
+Files and datasets for an short introductory course on data science using R.
